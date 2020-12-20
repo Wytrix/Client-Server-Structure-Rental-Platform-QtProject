@@ -1,5 +1,5 @@
 # Client-Server-Structure-Rental-Platform-QtProject
-Computer network course design of rental information publishing platform
+Computer network course design of rental information publishing platform  
 租房交流平台计算机网络编程Qt项目  
 网络协议：TCP协议  
 编程语言：C++面向对象
